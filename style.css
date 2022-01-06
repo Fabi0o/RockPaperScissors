@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(114, 114, 114);
+}
+
+.playerButtons {
+  display: flex;
+  justify-content: space-between;
+  margin: 0% 20%;
+}
+.results {
+  text-align: center;
+}
+.buttons {
+  border-radius: 18%;
+  width: 100px;
+  background-color: rgb(231, 255, 93);
+  border: 2px solid black;
+  margin-top: 30px;
+}
+header {
+  text-align: center;
+}
